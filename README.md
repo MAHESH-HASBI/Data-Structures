@@ -1,1 +1,1 @@
-This repository contains datastructure and algorithm codes
+# This repository contains datastructure and algorithm codes
